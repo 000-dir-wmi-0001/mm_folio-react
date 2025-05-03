@@ -21,6 +21,10 @@ function App() {
         <span className='text-black text-9xl font-bold text-shadow-lg text-shadow-gray-100'>Al Momin</span>
         <span className='text-black text-9xl font-bold text-shadow-lg text-shadow-gray-50'>Al Ansari</span>
       </div>
+
+      <div className='bg-gradient-to-br from-pink-400 to-violet-500 rounded-full p-10 shadow-lg shadow-gray-50 text-center'>
+    
+      </div>
       </div>
     </>
   )
